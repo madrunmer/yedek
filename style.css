@@ -1,0 +1,301 @@
+
+body
+{
+	background:rgb(237,237,237);
+	margin: 0px;
+	padding: 0px;
+}
+ul,li{margin: 0;padding: 0;list-style-type:none;}
+#dumper
+{
+	width: auto;
+	height: auto;
+
+}
+#header
+{
+	width:100%;
+	height: auto;
+	background: #001933;
+}
+#header_menu
+{
+	height:70px;
+	width: 1200px;
+	margin: auto;
+}
+.ortala{margin: auto;}
+.link:link{text-decoration:none;  color:#ffffff;
+font-size:20px;}
+.link:hover
+{
+    color:black;
+    font-size:20px;
+    background: rgb(185,185,18s);
+}
+.link:visited { text-decoration:none; color:#ffffff;}
+.menu{
+	list-style-type: none;
+	margin:  -35px 0 0 160px;
+}
+
+.icmenu {
+	display: inline;
+	border: 0px solid #ffffff;
+	font-family: Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 25px;
+	border-radius: 0px 0px;
+	background-color: ;
+	font-size:20px;
+}
+#header_icerik
+{
+	height:450px;
+	width: 1200px;
+	margin: auto;
+
+}
+.link2:link{text-decoration:none;  color:#ffffff;
+font-size:20px;width:360px;}
+.link2:hover
+{
+    color:black;
+    font-size:20px;
+    background: rgb(185,185,18s)
+
+}
+.link2:visited { text-decoration:none; color:#ffffff;}
+.menu1{
+	list-style-type: none;
+	margin:  8px 0 0 160px;
+	width:auto;
+}
+
+.icmenu1 {
+	text-decoration: none;
+	border: 1px solid #004C99 ;
+	font-family: Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 3px 0 0 0;
+	border-radius: 0px 0px;
+	background-color:#004C99;
+	font-size:20px;
+	width:auto;
+}
+.sabitle
+{
+	float: right;
+	margin: 100px 0 0px 0;
+
+}
+#content1
+{
+	width: 1200px;
+height:550px;
+margin: auto;
+
+}
+.deneme
+{
+	float: left;
+	width: 720px;
+	height: auto;
+	background: ;
+}
+.b1{width: auto;height: auto;display: none;}
+.b2{width: auto;height: auto;display: none;}
+.b3{width: auto;height: auto;display: none;}
+.b4{width: auto;height: auto;display: none;}
+.b5{width: auto;height: auto;display: none;}
+.b6{width: auto;height: auto;display: none;}
+.jquerylink
+{
+	text-decoration: none;
+	color: white;
+
+}
+/*.jquerydeneme
+{
+	float: left;
+	width: 720px;
+	margin: 0px 0 100px 0;
+	padding: 20px 0 0 0;
+	text-align: center;
+}
+#foto
+{
+	background: white;
+	width:100px;
+	height: 100px;
+	display: inline;
+	margin: 60px 0px 0px 0px;
+
+}*/
+.c1
+{
+	width: 200px;
+	height: 350px;
+	background: white;
+
+}
+
+.c2
+{
+	width: 200px;
+	height: 390px;
+	margin: -350px 0 0 230px;
+	background: white;
+}
+
+.c3
+{
+	width: 200px;
+	height: 350px;
+	background: white;
+	margin: -390px 0 0 460px;
+}
+
+
+.c4
+{
+	width: 200px;
+	height: 350px;
+	background: white;
+	margin: -350px 0 0 690px;
+}
+
+
+.c5
+{
+	width: 200px;
+	height: 350px;
+	background: white;
+	margin: -350px 0 0 920px;
+}
+
+
+
+#footerilk
+{
+	width: auto;
+	height: 300px;
+	background: #0066CC;
+}
+#footerilkicerik
+{
+	margin: auto;
+	width: 700px;
+	height: auto;
+}
+.menu2{
+	list-style-type: none;
+	margin: 0px 0 0 230px;
+	
+
+}
+
+.icmenu2 {
+	text-decoration: none;
+	border: 1px solid #ffffff;
+	font-family: Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 10px 20px 10px 20px;
+
+	border-radius: 5px;
+	background-color:;
+	font-size:20px;
+	width: 210px;
+	text-align: center;
+
+}
+#content2
+{
+width:auto;
+height: auto;
+background: white;
+
+}
+#content2ic
+{
+	width: 758px;
+	height: auto;
+	margin: auto;
+}
+#dis
+{
+	border:solid 0px #ddd;
+	margin: 20px 0 0 0;
+	
+}
+#dis img 
+{
+	width: 250px;
+	height: 250px;
+	cursor: pointer;
+	border:2px solid #ddd;
+}
+#dis img:hover
+{
+	border:2px solid #666;
+}
+.resim_orta
+{
+	width: 900px;
+	height: 680px;
+	background-color:#000;
+	display: none;
+	position: absolute;
+	left: 200px;
+	top:30px;
+	color:#fff;
+	position: fixed;
+}
+.kapat
+{
+
+	cursor: pointer;
+	margin: 5px;
+	position: fixed;
+}
+.clear{clear:both;}
+.sola
+{
+	width: 12px;
+	height: 14px;
+
+	
+	cursor:pointer;
+	position: fixed;
+}
+.sola
+{
+	width: 12px;
+	height: 14px;
+	cursor:pointer;
+	position: fixed;
+}
+.resim{
+	width: 600px;
+	margin: 50px auto;
+}
+.degis{width:900000px; height:90000px; background-color:#000000; position:absolute; opacity: 0.8; filter:alpha(opacity=80) }
+#footerson
+{
+width: auto;
+height: 400px;
+background: rgb(40,40,40);
+}
+#footericerik
+{
+width: 1200px;
+height: 340px;
+margin: auto;
+
+}
+#footeralt
+{
+ width: auto;
+ height: 60px;
+ background: rgb(60,60,60);
+}
